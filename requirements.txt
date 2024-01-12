@@ -51,3 +51,4 @@ jupyter-lsp==2.2.1
 jupyter_client==7.2.0
 jupyter_core==4.10.
 scikit-learn
+xgboost
