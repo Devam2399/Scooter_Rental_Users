@@ -20,7 +20,6 @@ chardet==5.2.0
 charset-normalizer==3.3.2
 click==8.1.7
 cloudpickle==2.2.1
-comm==1.5.0
 contourpy==1.1.1
 cryptography==36.0.0
 cycler==0.12.1
